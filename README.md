@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @chorok-daddy
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# repositiry-fork
 
-<!---
-chorok-daddy/chorok-daddy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+이 'repository'는 'fork'와 'pull request'를 연습하기 위해 만들어졌습니다.
+이 내용은 EMPTY1998 계정으로 작업했습니다.
